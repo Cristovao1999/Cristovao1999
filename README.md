@@ -5,7 +5,7 @@
   I know all the basic of the following language:  C, C++, HTML, CSS and JAVA.
   I am still a kid but about to go big.
   I started small then I will gradually grow.
-  This my short algorithm store
+  This is my short algorithm store
   Thank you! -:D
   
 </html>
